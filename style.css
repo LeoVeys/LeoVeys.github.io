@@ -1,6 +1,6 @@
 body
 {
-    background: url(media/fond3.jpg);
+    background: url(fond3.jpg);
     background-size: cover;
     font-family: sans-serif;
     z-index: 2;
@@ -32,7 +32,7 @@ body
 .circle{
     width: 200px;
     height: 200px;
-    background: url(media/eguilles-photo.jpg) no-repeat;
+    background: url(eguilles-photo.jpg) no-repeat;
     background-size: 100% 100%;
     border-radius: 50%;
     float:right;
@@ -54,7 +54,7 @@ body
 .circle2{
     width: 200px;
     height: 200px;
-    background: url(media/image3.jpg) no-repeat;
+    background: url(image3.jpg) no-repeat;
     background-size: 100% 100%;
     border-radius: 50%;
     float:left;
@@ -76,7 +76,7 @@ body
 .circle3{
     width: 200px;
     height: 200px;
-    background: url(media/imageeco.jpg) no-repeat;
+    background: url(imageeco.jpg) no-repeat;
     background-size: 100% 100%;
     border-radius: 50%;
     float:right;
